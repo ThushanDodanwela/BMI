@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="choose_one">Choose One</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+
+</resources>
